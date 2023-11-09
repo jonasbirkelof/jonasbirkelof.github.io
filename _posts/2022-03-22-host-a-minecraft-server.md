@@ -14,23 +14,23 @@ This article will guide you in getting started with a self-hosted Minecraft serv
 {: .prompt-warning }
 
 > - This guide is aimed towards Windows users.
-> - Your PC and server application must be running for any payer to access it.
+> - Your computer and server application must be running for any player to access it.
 > - This guide will touch on "port forwarding" and "DNS settings" which are procedures that can be risky if you do not know what you are doing.
 
 ## 1. Installation
 
-There are a couple of different server applications to chose from but most are pretty similar. This guide will use **Paper MC** which is fast and reliable.
+This guide will use the **Paper MC** server application which is fast and reliable.
 
-1. Create a new folder and name it `mc-server` anywhere on your computer.
+1. Create a new folder and name it `mc-server` (or anything you want) anywhere on your computer.
 2. Download the latest version of [Paper MC](https://papermc.io/downloads) from their website (top blue button) and save the file inside your server folder `/mc-server` that you just created.
-3. Rename the file to `paper.jar`.
+3. Rename the file `paper.jar`.
 4. Create a new text file inside `/mc-server` and paste this code:
     ```
     java -Xmx[RAM HERE] -Xms[RAM HERE] -jar paper.jar nogui
     pause
     ```
     {: file="/mc-server/start-server.bat" }
-5. Change `[RAM HERE]` into the amout of RAM you want to dedicate to the server. Be sure not to add too much!
+5. Change `[RAM HERE]` into the amout of RAM you want to dedicate to the server. **Be sure not to add too much!**
     2GB: 2048M, 4GB: 4096M, 8GB: 8192M
 
     Example:
@@ -39,12 +39,12 @@ There are a couple of different server applications to chose from but most are p
     pause
     ```
     {: file="/mc-server/start-server.bat" }
-6. Save the file as `start-server.bat` and delete the text file.
-    > To make changes, rename it to `.txt`, make your changes, then save it as `.bat` again.
+6. Save the file as `start-server.bat` and delete the leftover text file.
+    > To make changes, rename it to `.txt`, make your changes, then rename it back to `.bat`.
     {: .prompt-tip }
 7. Run `/mc-server/start-server.bat`. A couple of files will be generated in the server folder and the terminal will launch. The installation will intentionally abort after a little whileand prompt you to accept the EULA.
 8. Close the terminal by typing `stop` and hit Enter.
-9. Open the file `/mc-server/eula.txt` and change `eula=false` to `eula=true`. This will accept the EULA. Save and close the file.
+9. Open the file `/mc-server/eula.txt` and change `eula=false` to `eula=true`. This action will accept the EULA. Save and close the file.
 10. Run `/mc-server/start-server.bat` again to generate the remaining files. The terminal will say `Done` when it is finished.
 
 The server is now running. Proceed to make some settings by following the steps below.
@@ -53,10 +53,9 @@ To stop the server, type `stop` and hit Enter.
 
 ### 1.1 Settings
 
-There are many settings you can do, but these are the most important.Read more about the settings in the [Minecraft Wiki](https://minecraft.wiki/w/Server.properties).
+There are many settings you can do, but these are the most important and common. Read more about the settings in the [Minecraft Wiki](https://minecraft.wiki/w/Server.properties).
 
 Open `/mc-server/server.properties` and find the settings listed below. When you are done, save and close the file.
-
 
 | Variabel    | Explanation                                       | Suggested value               |
 | ----------- | ------------------------------------------------- | ----------------------------- |
