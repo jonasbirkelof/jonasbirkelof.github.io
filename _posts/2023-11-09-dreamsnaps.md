@@ -12,12 +12,13 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ## 17 - WALL-E's Garden
 
+![](/IMG_4524.jpeg)
+
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-**2023-11-08 - 2023-11-15**
-
+<i class="fa-regular fa-calendar"></i> 2023-11-08 - 2023-11-15<br>
 [OUTFIT CHALLENGE] Spend some quality time with your favorite robot Villager and his favorite place -- the garden!
 
 ## 16 - Something Wicked
@@ -28,8 +29,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-**2023-11-01 - 2023-11-08**
-
+<i class="fa-regular fa-calendar"></i> 2023-11-01 - 2023-11-08<br>
 [DECOR CHALLENGE] Channel your favorite villain and transform the Valley into your very own domain.
 
 ## 15 - Trick or Treat!
@@ -40,8 +40,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | 67.05 | 6439 | 4000       | 168        |
 
-**2023-10-25 - 2023-11-01**
-
+<i class="fa-regular fa-calendar"></i> 2023-10-25 - 2023-11-01<br>
 [OUTFIT CHALLENGE] Time to get sweet or scary with this Halloween-themed challenge. (Why not both?) Costumes encouraged!
 
 ## 14 - Bedroom Beauty
@@ -52,8 +51,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | 78.47 | 5811 | 4000       | 179        |
 
-**2023-10-18 - 2023-10-25**
-
+<i class="fa-regular fa-calendar"></i> 2023-10-18 - 2023-10-25<br>
 [DECOR CHALLENGE] Don't sleep on this DreamSnaps theme -- show the community your most beautiful and elegant bedroom!
 
 ## 13 - Swashbuckle 'n' Swagger
@@ -64,8 +62,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ----- | ---------- | ---------- |
 | 76.92 | 11377 | 2500       | 177        |
 
-**2023-10-11 - 2023-10-18**
-
+<i class="fa-regular fa-calendar"></i> 2023-10-11 - 2023-10-18<br>
 [OUTFIT CHALLENGE] Avast! It's time to set your sights on the horizon, shiver your timbers, and put on your pirate-y best!
 
 ## 12 - Frightfully Festive
@@ -76,8 +73,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | 69.09 | 7525 | 2500       | 170        |
 
-**2023-10-04 - 2023-10-11**
-
+<i class="fa-regular fa-calendar"></i> 2023-10-04 - 2023-10-11<br>
 [DECOR CHALLENGE] Have a holly jolly haunting in your Valley as you celebrate The Nightmare Before Christmas.
 
 ## 11 - Fun with Fall
@@ -88,8 +84,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ----- | ---------- | ---------- |
 | 61.78 | 25716 | 1200       | 162        |
 
-**2023-09-27 - 2023-10-04**
-
+<i class="fa-regular fa-calendar"></i> 2023-09-27 - 2023-10-04<br>
 [OUTFIT CHALLENGE] Celebrate everything autumn -- changing leaves, cozy sweaters, the harvest, and pumpkins.
 
 ## 10 - Critter Love
@@ -97,8 +92,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-09-20 - 2023-09-27**
-
+<i class="fa-regular fa-calendar"></i> 2023-09-20 - 2023-09-27<br>
 [DECOR CHALLENGE] Show a little love for the Valley's animal companions with designs and styles inspired by your favorite critter. 
 
 ## 9 - Dapper Delights
@@ -107,8 +101,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ----- | ---------- | ---------- |
 | 58.00 | 65858 | 600        | 158        |
 
-**2023-09-13 - 2023-09-20**
-
+<i class="fa-regular fa-calendar"></i> 2023-09-13 - 2023-09-20<br>
 [OUTFIT CHALLENGE] Stroll through your Valley in elegant fashions inspired by the early 1900s -- the more theatrical, the better!
 
 ## 8 - Dreamy Kitchen
@@ -117,8 +110,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | 71.21 | 9677 | 1500       | 172        |
 
-**2023-09-06 - 2023-09-13**
-
+<i class="fa-regular fa-calendar"></i> 2023-09-06 - 2023-09-13<br>
 [DECOR CHALLENGE] What's Cooking? Your best and most stylish kitchen designs.
 
 ## 7 - Forget Me Not
@@ -126,8 +118,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-08-30 - 2023-09-06**
-
+<i class="fa-regular fa-calendar"></i> 2023-08-30 - 2023-09-06<br>
 [OUTFIT CHALLENGE] Channel your dark side with outfits based on the Forgetting -- think Night Thorns and shadows... 
 
 ## 6 - Dreamers Unite
@@ -136,8 +127,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ----- | ---------- | ---------- |
 | 50.11 | 42099 | 600        | 151        |
 
-**2023-08-23 - 2023-08-30**
-
+<i class="fa-regular fa-calendar"></i> 2023-08-23 - 2023-08-30<br>
 [DECOR CHALLENGE] It takes a village to make something great -- celebrate what makes your Valley unique with the DDV community in this DreamSnaps challenge!
 
 ## 5 - Rainbows
@@ -145,8 +135,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-08-16 - 2023-08-23**
-
+<i class="fa-regular fa-calendar"></i> 2023-08-16 - 2023-08-23<br>
 [OUTFIT CHALLENGE] Celebrate yourself and your community with your best and brightest rainbow-themed designs. 
 
 ## 4 - Fire and Water
@@ -154,8 +143,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-08-09 - 2023-08-16**
-
+<i class="fa-regular fa-calendar"></i> 2023-08-09 - 2023-08-16<br>
 [DECOR CHALLENGE] Things are getting elemental! Show off your best designs featuring both Fire and Water. 
 
 ## 3 - Earth and Air
@@ -163,8 +151,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-08-02 - 2023-08-09**
-
+<i class="fa-regular fa-calendar"></i> 2023-08-02 - 2023-08-09<br>
 [OUTFIT CHALLENGE] Explore your elemental side, with designs featuring Earth and Air. 
 
 ## 2 - Ocean View
@@ -172,8 +159,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 > Did not participate.
 {: .prompt-info }
 
-**2023-07-26 - 2023-08-02**
-
+<i class="fa-regular fa-calendar"></i> 2023-07-26 - 2023-08-02<br>
 [DECOR CHALLENGE] It's time to celebrate all things sun and surf in this showcase of your best beach day designs. 
 
 ## 1 - The Dreamlight Ball
@@ -182,6 +168,5 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ----- | ---------- | ---------- |
 | 65.48 | 37743 | 900        | 166        |
 
-**2023-07-19 - 2023-07-26**
-
+<i class="fa-regular fa-calendar"></i> 2023-07-19 - 2023-07-26<br>
 [OUTFIT CHALLENGE] Dress to impress and create regal designs as you throw your very own Dreamlight Ball.
