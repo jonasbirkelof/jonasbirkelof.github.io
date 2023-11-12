@@ -12,7 +12,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ## 17 - WALL-E's Garden
 
-![](/IMG_4524.jpeg)
+![](/IMG_4559.jpeg)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
