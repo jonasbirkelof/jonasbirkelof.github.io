@@ -10,14 +10,14 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 18 - ???
+## 18 - Camp Dreamlight
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-15 - 2023-11-22<br>
-text...
+[DECOR CHALLENGE] Whether you're heading to summer camp or stargazing, this challenge is all about spending time in the great outdoors.
 
 ## 17 - WALL-E's Garden
 
@@ -34,9 +34,9 @@ text...
 
 ![](IMG_4467.jpeg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 69.07 | 18541 | 1200       | 170        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-01 - 2023-11-08<br>
 [DECOR CHALLENGE] Channel your favorite villain and transform the Valley into your very own domain.
