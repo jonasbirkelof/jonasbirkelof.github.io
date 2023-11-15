@@ -5,6 +5,7 @@ tags: [game,minecraft,server,multiplayer]
 pin: false
 img_path: /assets/img/
 image:
+    alt: "Cover: https://steamcommunity.com/profiles/76561198167496741"
     path: minecraft.jpg
 ---
 
