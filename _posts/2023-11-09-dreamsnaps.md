@@ -10,6 +10,17 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 19 - Haus of Mouse
+
+![](/IMG_4623.JPG)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-11-22 - 2023-11-29<br>
+[OUTFIT CHALLENGE] Break out your favorite costume ears! It's time to dress in looks inspired by Mickey Mouse and Minnie Mouse! 
+
 ## 18 - Camp Dreamlight
 
 ![](/IMG_4577.JPG)
@@ -25,9 +36,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_4559.jpeg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 57.33 | 14580 | 1500       | 158        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-08 - 2023-11-15<br>
 [OUTFIT CHALLENGE] Spend some quality time with your favorite robot Villager and his favorite place -- the garden!
