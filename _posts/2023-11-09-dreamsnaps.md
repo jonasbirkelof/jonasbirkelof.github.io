@@ -10,6 +10,15 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 20 - Dreamers Unite
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-11-29 - 2023-12-06<br>
+[DECOR CHALLENGE] It takes a village to make something great -- celebrate what makes your Valley unique with the DDV community in this DreamSnaps challenge!
+
 ## 19 - Haus of Mouse
 
 ![](/IMG_4623.JPG)
@@ -27,7 +36,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 82.17 | 4352 | 4000       | 183        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-15 - 2023-11-22<br>
 [DECOR CHALLENGE] Whether you're heading to summer camp or stargazing, this challenge is all about spending time in the great outdoors.
