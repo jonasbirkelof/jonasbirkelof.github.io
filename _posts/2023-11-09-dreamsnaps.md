@@ -10,6 +10,17 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 21 - Jean Dreams
+
+![](/IMG_4825.JPG)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-12-06 - 2023-12-13<br>
+[OUTFIT CHALLENGE] Showcase your true blue! Put together an outfit featuring denim.
+
 ## 20 - Dreamers Unite
 
 ![](/IMG_4730.JPG)
@@ -25,9 +36,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_4623.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 53.71 | 12517 | 1500       | 154        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-22 - 2023-11-29<br>
 [OUTFIT CHALLENGE] Break out your favorite costume ears! It's time to dress in looks inspired by Mickey Mouse and Minnie Mouse! 
