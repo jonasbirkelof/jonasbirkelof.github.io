@@ -10,6 +10,17 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 22 - Under the Sea
+
+![](/IMG_4854.JPG)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-12-13 - 2023-12-20<br>
+[DECOR CHALLENGE] Bring some underwater inspiration to your Valley decor.
+
 ## 21 - Jean Dreams
 
 ![](/IMG_4825.JPG)
@@ -25,9 +36,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_4730.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 56.76 | 27441 | 900        | 157        |
 
 <i class="fa-regular fa-calendar"></i> 2023-11-29 - 2023-12-06<br>
 [DECOR CHALLENGE] It takes a village to make something great -- celebrate what makes your Valley unique with the DDV community in this DreamSnaps challenge!
