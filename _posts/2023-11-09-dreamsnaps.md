@@ -10,6 +10,17 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 23 - Holiday Cheer
+
+![](/2023-12-21T13-05-40.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-12-20 - 2023-12-28<br>
+[DECOR CHALLENGE] Spread a little holiday cheer as you decorate your Valley. 
+
 ## 22 - Under the Sea
 
 ![](/IMG_4854.JPG)
@@ -25,9 +36,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_4825.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 52.83 | 54166 | 900        | 153        |
 
 <i class="fa-regular fa-calendar"></i> 2023-12-06 - 2023-12-13<br>
 [OUTFIT CHALLENGE] Showcase your true blue! Put together an outfit featuring denim.
