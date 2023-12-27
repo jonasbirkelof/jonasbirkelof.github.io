@@ -10,6 +10,15 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 24 - A Day at Disney
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2023-12-28 - 2024-01-04<br>
+[OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
+
 ## 23 - Holiday Cheer
 
 ![](/2023-12-21T13-05-40.jpg)
@@ -27,7 +36,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 78.18 | 2647 | 4000       | 179        |
 
 <i class="fa-regular fa-calendar"></i> 2023-12-13 - 2023-12-20<br>
 [DECOR CHALLENGE] Bring some underwater inspiration to your Valley decor.
