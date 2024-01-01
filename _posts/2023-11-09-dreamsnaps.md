@@ -12,6 +12,8 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ## 24 - A Day at Disney
 
+![](/IMG_5261.JPG)
+
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
