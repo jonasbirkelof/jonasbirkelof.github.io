@@ -54,7 +54,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-13 - 2023-12-20<br>
 [DECOR CHALLENGE] Bring some underwater inspiration to your Valley decor.
 
-Featured by MrStarInSky: [https://www.youtube.com/watch?v=q7uqMD15HI0&t=143s](YouTube)
+Featured by MrStarInSky: [YouTube](https://www.youtube.com/watch?v=q7uqMD15HI0&t=143s)
 
 ## 21 - Jean Dreams
 
