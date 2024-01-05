@@ -33,7 +33,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 [OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
 
 ## 23 - Holiday Cheer
-
+ 
 ![](/2023-12-21T13-05-40.jpg)
 
 | Score | Rank | Moonstones | Pixel Dust |
