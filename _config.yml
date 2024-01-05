@@ -16,10 +16,10 @@ timezone: Europe/Stockholm
 
 title: Jonas Birkelöf # the main title
 
-tagline: Engineer, Developer, Nerd, Dad # it will display as the sub-title
+tagline: Engineer, Developer, Dad # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  I am Jonas - engineer, web developer, nerd and dad.
+  I am Jonas - engineer, web developer, dad.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
