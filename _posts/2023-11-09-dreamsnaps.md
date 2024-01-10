@@ -10,6 +10,15 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 26 - Winter's Here!
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2024-01-10 - 2024-01-17<br>
+[OUTFIT CHALLENGE] Brrr! Time to bundle up and share your warmest winter fashions.
+
 ## 25 - Out of the Toy Box
  
 ![](/2024-01-05T15-28-54.jpg)
@@ -25,9 +34,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_5261.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 56.82 | 16381 | 1500       | 157        |
 
 <i class="fa-regular fa-calendar"></i> 2023-12-27 - 2024-01-03<br>
 [OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
