@@ -10,6 +10,17 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 27 - Arendelle Showcase
+
+![](/2024-01-24T00-03-08.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2024-01-17 - 2024-01-24<br>
+[DECOR CHALLENGE] Transport yourself to Arendelle! Decorate your Valley with Frozen-inspired designs.
+
 ## 26 - Winter's Here!
 
 ![](/IMG_5314.JPG)
@@ -25,9 +36,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
  
 ![](/2024-01-05T15-28-54.jpg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 52.88 | 46535 | 600        | 153        |
 
 <i class="fa-regular fa-calendar"></i> 2024-01-03 - 2024-01-10<br>
 [DECOR CHALLENGE] To DreamSnaps -- and beyond! Decorate your Valley with decorations inspired by Toy Story. 
