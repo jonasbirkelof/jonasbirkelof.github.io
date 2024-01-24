@@ -10,6 +10,15 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 28 - Sports Savvy
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-regular fa-calendar"></i> 2024-01-24 - 2024-01-31<br>
+[OUTFIT CHALLENGE] Flex your fashion muscles and go for gold! Show off your spectacular sporty style in this outfit challenge.
+
 ## 27 - Arendelle Showcase
 
 ![](/2024-01-24T00-03-08.jpg)
@@ -25,9 +34,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_5314.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 66.57 | 35564 | 900        | 167        |
 
 <i class="fa-regular fa-calendar"></i> 2024-01-10 - 2024-01-17<br>
 [OUTFIT CHALLENGE] Brrr! Time to bundle up and share your warmest winter fashions.
