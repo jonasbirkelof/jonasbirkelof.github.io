@@ -10,6 +10,21 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 30 - Freestyle!
+
+![](/2024-02-12T17-26-18.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Calm: 9/4 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: 7/3
+
+<i class="fa-regular fa-calendar"></i> 2024-02-07 - 2024-02-14<br>
+[OUTFIT CHALLENGE] Let your personality shine and share your favorite Valley outfit. 
+
 ## 29 - It Came From Outer Space
 
 ![](/IMG_5459.JPG)
@@ -29,9 +44,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_5448.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 62.52 | 41102 | 900        | 163        |
 
 <i class="fa-solid fa-tag"></i> Sporty: 5/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
