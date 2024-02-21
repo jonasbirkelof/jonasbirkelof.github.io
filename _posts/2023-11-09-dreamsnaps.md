@@ -10,13 +10,41 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 30 - Freestyle!
-
-![](/2024-02-12T17-26-18.jpg)
+## 32 - ???
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> ???: X/X 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> ???: X/X
+
+<i class="fa-regular fa-calendar"></i> 2024-02-21 - 2024-02-28<br>
+???
+
+## 31 - Minnie Mouse's Festival of Hearts
+
+![](/IMG_5569.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Cute: 8/4 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Delicate: 6/5
+
+<i class="fa-regular fa-calendar"></i> 2024-02-14 - 2024-02-21<br>
+[DECOR CHALLENGE] Celebrate best friendships and sweethearts in the Valley! Decorate with cute decor and rosy hues to share the love this week. 
+
+## 30 - Freestyle!
+
+![](/2024-02-12T17-26-18.jpg)
+
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 73.89 | 12490 | 1500       | 174        |
 
 <i class="fa-solid fa-tag"></i> Calm: 9/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,7 +59,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 54.30 | 6046 | 2500       | 155        |
 
 <i class="fa-solid fa-tag"></i> Futuristic: 13/6 
 &nbsp;&nbsp;&nbsp;&nbsp;
