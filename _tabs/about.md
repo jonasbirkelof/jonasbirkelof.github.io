@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![](/assets/img/210604_jonas_birkelöf_porträtt_050_500x667.jpg){: .right }{: w="200" h="367" }
+![](/assets/img/210604_jonas_birkelof_portrait_050_500x667.jpg){: .right }{: w="200" h="367" }
 
 My name is Jonas Birkelöf and I live in Örebro, Sweden. I have a bachelors degree in electronics, specialized in sound, acustics and hearing. Since 2011 I work as a research engineer at Region Örebro County. I have also worked as a consultant and front-end developer at a web agency.
 
