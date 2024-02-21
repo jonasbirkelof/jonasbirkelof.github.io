@@ -25,7 +25,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ## 31 - Minnie Mouse's Festival of Hearts 
 
-![](/IMG_5569.jpg)
+![](/IMG_5569.JPG)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
