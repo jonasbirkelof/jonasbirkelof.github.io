@@ -23,7 +23,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-02-21 - 2024-02-28<br>
 ???
 
-## 31 - Minnie Mouse's Festival of Hearts
+## 31 - Minnie Mouse's Festival of Hearts 
 
 ![](/IMG_5569.jpg)
 
