@@ -10,18 +10,18 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 32 - ???
+## 32 - Savanna Style
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-<i class="fa-solid fa-tag"></i> ???: X/X 
+<i class="fa-solid fa-tag"></i> Playful: X/3 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-solid fa-tag"></i> ???: X/X
+<i class="fa-solid fa-tag"></i> Strong: X/3
 
 <i class="fa-regular fa-calendar"></i> 2024-02-21 - 2024-02-28<br>
-???
+[OUTFIT CHALLENGE] We want to hear you roar! This week, dress up in a look inspired by The Lion King. Get bold, strut your stuff, and live Hakuna Matata! 
 
 ## 31 - Minnie Mouse's Festival of Hearts 
 
