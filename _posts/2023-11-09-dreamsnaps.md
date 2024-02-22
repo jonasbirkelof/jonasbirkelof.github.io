@@ -10,7 +10,7 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 32 - Savanna Style
+## 32 - Savanna Style 
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
