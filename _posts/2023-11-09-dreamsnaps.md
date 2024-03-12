@@ -10,15 +10,47 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 32 - Savanna Style 
+## 34 - Fur, Feathers, Scales
+
+![](/IMG_5649.JPG)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-<i class="fa-solid fa-tag"></i> Playful: X/3 
+<i class="fa-solid fa-tag"></i> Cute: 10/3 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-solid fa-tag"></i> Strong: X/3
+<i class="fa-solid fa-tag"></i> Playful: 10/3
+
+<i class="fa-regular fa-calendar"></i> 2024-03-06 - 2024-03-13<br>
+[OUTFIT CHALLENGE] Fur, feathers or scales? Create an outfit inspired by your favorite pet in the Valley! 
+
+## 33 - Villainous Lair
+
+![](/2024-03-06T14-58-57.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Quirky: 6/4 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Strong: 25/6
+
+<i class="fa-regular fa-calendar"></i> 2024-02-28 - 2024-03-06<br>
+[DECOR CHALLENGE] Make a villainous lair with flair! Decorate part of your Valley and transform it into your very own villainous den! 
+
+## 32 - Savanna Style 
+
+![](/2024-02-28T12-37-42.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| 69.67 | 1976 | 4000       | 170        |
+
+<i class="fa-solid fa-tag"></i> Playful: 7/3 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Strong: 9/3
 
 <i class="fa-regular fa-calendar"></i> 2024-02-21 - 2024-02-28<br>
 [OUTFIT CHALLENGE] We want to hear you roar! This week, dress up in a look inspired by The Lion King. Get bold, strut your stuff, and live Hakuna Matata! 
@@ -27,9 +59,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/IMG_5569.JPG)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 55.65 | 56062 | 600        | 156        |
 
 <i class="fa-solid fa-tag"></i> Cute: 8/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
