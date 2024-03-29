@@ -10,13 +10,56 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 34 - Fur, Feathers, Scales
-
-![](/IMG_5649.JPG)
+## 37 - Ancient Aesthetics
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Delicate: -/6 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: -/5
+
+<i class="fa-regular fa-calendar"></i> 2024-03-27 - 2024-04-03<br>
+[DECOR CHALLENGE] It's time to get old (old, OLD) school. Decorate with the past as your inspiration. Everything from Merlin to mythology is on the table. 
+
+## 36 - Chill Summer
+
+![](/IMG_5698.JPG)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Elegant: 10/4 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: 12/3
+
+<i class="fa-regular fa-calendar"></i> 2024-03-20 - 2024-03-27<br>
+[OUTFIT CHALLENGE] Escape winter's chill with a cool summery outfit! Combine summer and winter clothes to create your unique look. 
+
+## 35 - DIY Theme Park
+
+![](/2024-03-18T14-41-50.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| 74.71 | 4260 | 4000       | 175        |
+
+<i class="fa-solid fa-tag"></i> Outdoors: 18/4
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Lavish: 18/6
+
+<i class="fa-regular fa-calendar"></i> 2024-03-13 - 2024-03-20<br>
+[DECOR CHALLENGE] Decorate your Valley by turning it into the theme park of your dreams! 
+
+## 34 - Fur, Feathers, Scales
+
+![](/IMG_5649.JPG)
+
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 64.78 | 15586 | 1500       | 165        |
 
 <i class="fa-solid fa-tag"></i> Cute: 10/3 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,9 +72,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/2024-03-06T14-58-57.jpg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 54.44 | 73973 | 600        | 155        |
 
 <i class="fa-solid fa-tag"></i> Quirky: 6/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +83,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-02-28 - 2024-03-06<br>
 [DECOR CHALLENGE] Make a villainous lair with flair! Decorate part of your Valley and transform it into your very own villainous den! 
 
-## 32 - Savanna Style 
+## 32 - Savanna Style &#x1F3C5; &#129351;
 
 ![](/2024-02-28T12-37-42.jpg)
 
@@ -159,7 +202,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-27 - 2024-01-03<br>
 [OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
 
-## 23 - Holiday Cheer
+## 23 - Holiday Cheer &#x1F3C5; &#x1F948;
  
 ![](/2023-12-21T13-05-40.jpg)
 
@@ -170,7 +213,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-20 - 2023-12-27<br>
 [DECOR CHALLENGE] Spread a little holiday cheer as you decorate your Valley. 
 
-## 22 - Under the Sea
+## 22 - Under the Sea &#x1F3C5; &#x1F949;
 
 ![](/IMG_4854.JPG)
 
@@ -216,7 +259,7 @@ Featured by MrStarInSky: [YouTube](https://www.youtube.com/watch?v=q7uqMD15HI0&t
 <i class="fa-regular fa-calendar"></i> 2023-11-22 - 2023-11-29<br>
 [OUTFIT CHALLENGE] Break out your favorite costume ears! It's time to dress in looks inspired by Mickey Mouse and Minnie Mouse! 
 
-## 18 - Camp Dreamlight
+## 18 - Camp Dreamlight &#x1F3C5;
 
 ![](/IMG_4577.JPG)
 
@@ -249,7 +292,7 @@ Featured by MrStarInSky: [YouTube](https://www.youtube.com/watch?v=q7uqMD15HI0&t
 <i class="fa-regular fa-calendar"></i> 2023-11-01 - 2023-11-08<br>
 [DECOR CHALLENGE] Channel your favorite villain and transform the Valley into your very own domain.
 
-## 15 - Trick or Treat!
+## 15 - Trick or Treat! &#x1F3C5;
 
 ![](IMG_4411.jpeg)
 
@@ -260,7 +303,7 @@ Featured by MrStarInSky: [YouTube](https://www.youtube.com/watch?v=q7uqMD15HI0&t
 <i class="fa-regular fa-calendar"></i> 2023-10-25 - 2023-11-01<br>
 [OUTFIT CHALLENGE] Time to get sweet or scary with this Halloween-themed challenge. (Why not both?) Costumes encouraged!
 
-## 14 - Bedroom Beauty
+## 14 - Bedroom Beauty &#x1F3C5;
 
 ![](IMG_4347.jpeg)
 
