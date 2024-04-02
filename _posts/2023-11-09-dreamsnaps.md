@@ -12,13 +12,15 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ## 37 - Ancient Aesthetics
 
+![](/IMG_5765.JPG)
+
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-<i class="fa-solid fa-tag"></i> Delicate: -/6 
+<i class="fa-solid fa-tag"></i> Delicate: 32/6 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-solid fa-tag"></i> Wondrous: -/5
+<i class="fa-solid fa-tag"></i> Wondrous: 3/5
 
 <i class="fa-regular fa-calendar"></i> 2024-03-27 - 2024-04-03<br>
 [DECOR CHALLENGE] It's time to get old (old, OLD) school. Decorate with the past as your inspiration. Everything from Merlin to mythology is on the table. 
