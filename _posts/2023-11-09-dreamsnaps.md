@@ -40,7 +40,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-03-20 - 2024-03-27<br>
 [OUTFIT CHALLENGE] Escape winter's chill with a cool summery outfit! Combine summer and winter clothes to create your unique look. 
 
-## 35 - DIY Theme Park
+## 35 - DIY Theme Park &#x1F3C5;
 
 ![](/2024-03-18T14-41-50.jpg)
 
