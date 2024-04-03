@@ -31,7 +31,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 71.12 | 225  | 4000       | 172        |
 
 <i class="fa-solid fa-tag"></i> Elegant: 10/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
