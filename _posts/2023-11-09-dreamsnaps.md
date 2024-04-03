@@ -25,7 +25,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-03-27 - 2024-04-03<br>
 [DECOR CHALLENGE] It's time to get old (old, OLD) school. Decorate with the past as your inspiration. Everything from Merlin to mythology is on the table. 
 
-## 36 - Chill Summer
+## 36 - Chill Summer &#x1F3C5; &#129351;
 
 ![](/IMG_5698.JPG)
 
@@ -85,7 +85,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-02-28 - 2024-03-06<br>
 [DECOR CHALLENGE] Make a villainous lair with flair! Decorate part of your Valley and transform it into your very own villainous den! 
 
-## 32 - Savanna Style &#x1F3C5; &#129351;
+## 32 - Savanna Style &#x1F3C5; &#x1F948;
 
 ![](/2024-02-28T12-37-42.jpg)
 
@@ -204,7 +204,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-27 - 2024-01-03<br>
 [OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
 
-## 23 - Holiday Cheer &#x1F3C5; &#x1F948;
+## 23 - Holiday Cheer &#x1F3C5; &#x1F949;
  
 ![](/2023-12-21T13-05-40.jpg)
 
@@ -215,7 +215,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-20 - 2023-12-27<br>
 [DECOR CHALLENGE] Spread a little holiday cheer as you decorate your Valley. 
 
-## 22 - Under the Sea &#x1F3C5; &#x1F949;
+## 22 - Under the Sea &#x1F3C5;
 
 ![](/IMG_4854.JPG)
 
