@@ -368,6 +368,8 @@ Featured by MrStarInSky: [YouTube](https://www.youtube.com/watch?v=q7uqMD15HI0&t
 
 ## 8 - Dreamy Kitchen
 
+![](IMG_4002.JPG)
+
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | 71.21 | 9677 | 1500       | 172        |
