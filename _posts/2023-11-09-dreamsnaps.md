@@ -10,13 +10,43 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 39 - Moana's Village
+
+![](/2024-04-16T22-19-15.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Calm: 11/4 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Delicate: 10/5
+
+<i class="fa-regular fa-calendar"></i> 2024-04-10 - 2024-04-17<br>
+[DECOR CHALLENGE] Get into an island groove! Dress up your Village with decor inspired by the world of Moana. 
+
+## 38 - Superhero for a Day
+
+![](/2024-04-10T11-53-57.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Strong: 10/3 
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: 9/3
+
+<i class="fa-regular fa-calendar"></i> 2024-04-03 - 2024-04-10<br>
+[OUTFIT CHALLENGE] Bam! Pow! Bang! Show off your super style in this week's DreamSnaps outfit challenge! 
+
 ## 37 - Ancient Aesthetics
 
 ![](/IMG_5765.JPG)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 76.76 | 9341 | 2500       | 177        |
 
 <i class="fa-solid fa-tag"></i> Delicate: 32/6 
 &nbsp;&nbsp;&nbsp;&nbsp;
