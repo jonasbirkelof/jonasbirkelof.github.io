@@ -10,6 +10,21 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 40 - Monster-sona
+
+![](/2024-04-22T17-03-14.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Quirky: -/3
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: -/4
+
+<i class="fa-regular fa-calendar"></i> 2024-04-17 - 2024-04-24<br>
+[OUTFIT CHALLENGE] It's time to let your inner monster out! Style an outfit to show off your monstrous side. Get inspired by Monsters, Inc. or go your own way -- just make it weird and wondrous! 
+
 ## 39 - Moana's Village
 
 ![](/2024-04-16T22-19-15.jpg)
@@ -29,9 +44,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/2024-04-10T11-53-57.jpg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 57.57 | 65712 | 600        | 158        |
 
 <i class="fa-solid fa-tag"></i> Strong: 10/3 
 &nbsp;&nbsp;&nbsp;&nbsp;
