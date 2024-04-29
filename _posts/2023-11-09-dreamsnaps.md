@@ -10,6 +10,21 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 41 - In Bloom
+
+![](/2024-04-29T12-16-47.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Elegant: 8/5
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Wondrous: 17/6
+
+<i class="fa-regular fa-calendar"></i> 2024-04-24 - 2024-05-01<br>
+[DECOR CHALLENGE] It's time to welcome springtime vibes to the Valley. Create a decorative scene filled with blooming and blossoming flowers!
+
 ## 40 - Monster-sona
 
 ![](/2024-04-22T17-03-14.jpg)
@@ -18,9 +33,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-<i class="fa-solid fa-tag"></i> Quirky: -/3
+<i class="fa-solid fa-tag"></i> Quirky: 7/3
 &nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-solid fa-tag"></i> Wondrous: -/4
+<i class="fa-solid fa-tag"></i> Wondrous: 9/4
 
 <i class="fa-regular fa-calendar"></i> 2024-04-17 - 2024-04-24<br>
 [OUTFIT CHALLENGE] It's time to let your inner monster out! Style an outfit to show off your monstrous side. Get inspired by Monsters, Inc. or go your own way -- just make it weird and wondrous! 
@@ -29,9 +44,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/2024-04-16T22-19-15.jpg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 68.34 | 21979 | 1200       | 169        |
 
 <i class="fa-solid fa-tag"></i> Calm: 11/4 
 &nbsp;&nbsp;&nbsp;&nbsp;
