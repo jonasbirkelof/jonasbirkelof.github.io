@@ -10,6 +10,21 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 42 - Royal Celebration
+
+![](/2024-05-03T16-27-16.jpg)
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Elegant: 10/5
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Traditional: 11/6
+
+<i class="fa-regular fa-calendar"></i> 2024-05-01 - 2024-05-08<br>
+[DECOR CHALLENGE] Decorate your Valley in a manner fit for a festival of royalty. Make it lavish, make it elegant, make it you! 
+
 ## 41 - In Bloom
 
 ![](/2024-04-29T12-16-47.jpg)
@@ -25,13 +40,13 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-04-24 - 2024-05-01<br>
 [DECOR CHALLENGE] It's time to welcome springtime vibes to the Valley. Create a decorative scene filled with blooming and blossoming flowers!
 
-## 40 - Monster-sona
+## 40 - Monster-sona &#x1F3C5; &#x1F948;
 
 ![](/2024-04-22T17-03-14.jpg)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| 71.25 | 976  | 4000       | 172        |
 
 <i class="fa-solid fa-tag"></i> Quirky: 7/3
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -145,7 +160,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2024-02-28 - 2024-03-06<br>
 [DECOR CHALLENGE] Make a villainous lair with flair! Decorate part of your Valley and transform it into your very own villainous den! 
 
-## 32 - Savanna Style &#x1F3C5; &#x1F948;
+## 32 - Savanna Style &#x1F3C5; &#x1F949;
 
 ![](/2024-02-28T12-37-42.jpg)
 
@@ -264,7 +279,7 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 <i class="fa-regular fa-calendar"></i> 2023-12-27 - 2024-01-03<br>
 [OUTFIT CHALLENGE] What would YOU wear to visit your favorite Disney park? Put together a parks-ready look!
 
-## 23 - Holiday Cheer &#x1F3C5; &#x1F949;
+## 23 - Holiday Cheer &#x1F3C5;
  
 ![](/2023-12-21T13-05-40.jpg)
 
