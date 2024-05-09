@@ -10,6 +10,19 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
+## 41 - Top It All Off
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Hats: -/1
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Playful: -/4
+
+<i class="fa-regular fa-calendar"></i> 2024-05-08 - 2024-05-15<br>
+[OUTFIT CHALLENGE] This outfit challenge is tops! It's time to show off your favorite Valley headgear (think hats, tiaras, headscarves, and beyond!) along with an outfit to complete the look. 
+
 ## 42 - Royal Celebration
 
 ![](/2024-05-03T16-27-16.jpg)
@@ -29,9 +42,9 @@ These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvall
 
 ![](/2024-04-29T12-16-47.jpg)
 
-| Score | Rank | Moonstones | Pixel Dust |
-| ----- | ---- | ---------- | ---------- |
-| N/A   | N/A  | N/A        | N/A        |
+| Score | Rank  | Moonstones | Pixel Dust |
+| ----- | ----- | ---------- | ---------- |
+| 69.40 | 22418 | 1200       | 170        |
 
 <i class="fa-solid fa-tag"></i> Elegant: 8/5
 &nbsp;&nbsp;&nbsp;&nbsp;
