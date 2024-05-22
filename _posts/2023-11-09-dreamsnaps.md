@@ -10,15 +10,30 @@ image:
 
 These are my DreamSnaps ([Disney Dreamlight Valley](https://disneydreamlightvalley.com/)) submissions and result. I did not save the early submissions but the reults for them are listed below.
 
-## 41 - Top It All Off
+## 44 - Theme Park Snack Bar
+
+![](/Skärmbild 2024-05-22 143435.png)
 
 | Score | Rank | Moonstones | Pixel Dust |
 | ----- | ---- | ---------- | ---------- |
 | N/A   | N/A  | N/A        | N/A        |
 
-<i class="fa-solid fa-tag"></i> Hats: -/1
+<i class="fa-solid fa-tag"></i> Playful: 36/6
 &nbsp;&nbsp;&nbsp;&nbsp;
-<i class="fa-solid fa-tag"></i> Playful: -/4
+<i class="fa-solid fa-tag"></i> Strong: 52/5
+
+<i class="fa-regular fa-calendar"></i> 2024-05-15 - 2024-05-22<br>
+[DECOR CHALLENGE] Feeling hungry? Create a deliciously decorated theme park snack bar, alley, or food court where guests can taste the best of the best!
+
+## 43 - Top It All Off
+
+| Score | Rank | Moonstones | Pixel Dust |
+| ----- | ---- | ---------- | ---------- |
+| N/A   | N/A  | N/A        | N/A        |
+
+<i class="fa-solid fa-tag"></i> Hats: 1/1
+&nbsp;&nbsp;&nbsp;&nbsp;
+<i class="fa-solid fa-tag"></i> Playful: 11/4
 
 <i class="fa-regular fa-calendar"></i> 2024-05-08 - 2024-05-15<br>
 [OUTFIT CHALLENGE] This outfit challenge is tops! It's time to show off your favorite Valley headgear (think hats, tiaras, headscarves, and beyond!) along with an outfit to complete the look. 
