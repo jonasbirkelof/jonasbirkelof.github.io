@@ -18,9 +18,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
+    - navigation.indexes
+    - navigation.top
     - search.suggest
     - content.code.copy
-    - navigation.top
   palette:
     # Automatic color scheme
     - media: "(prefers-color-scheme)"
