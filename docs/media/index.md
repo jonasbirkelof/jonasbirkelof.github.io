@@ -2,4 +2,10 @@
 title: Media
 ---
 
-This section will have media articles.
+This is the media section.
+
+<div class="grid cards" markdown>
+
+- 	:fontawesome-solid-film: **Movies**
+
+</div>

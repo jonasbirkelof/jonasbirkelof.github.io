@@ -54,6 +54,8 @@ Create the file `C:\Users\<USERNAME>\.config\starship.toml`.
 
 ### Bash
 
+<div class="steps" markdown>
+
 1. Open **Bash** and type the following to reveal the path to the config file. In should be the user root directory `C:\Users\<USERNAME>`.
 
 	```bash
@@ -94,7 +96,11 @@ Create the file `C:\Users\<USERNAME>\.config\starship.toml`.
 
 	The `icon` property is optional.
 
+</div>
+
 ### Command Prompt (cmd)
+
+<div class="steps" markdown>
 
 1. Install [Clink](https://chrisant996.github.io/clink/clink.html).
 
@@ -110,7 +116,11 @@ Read more about file locations on the [documentation page](https://chrisant996.g
 	load(io.popen('starship init cmd'):read("*a"))()
 	```
 
+</div>
+
 ### PowerShell
+
+<div class="steps" markdown>
 
 1. Open a PowerShell prompt and open the profile file in VS Code.
 
@@ -123,3 +133,5 @@ Read more about file locations on the [documentation page](https://chrisant996.g
 	```bash
 	Invoke-Expression (&starship init powershell)
 	```
+
+</div>

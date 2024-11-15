@@ -14,6 +14,8 @@ If you get a version number you have Git installed already.
 
 ## Install Git
 
+<div class="steps" markdown>
+
 1. Download Git from the [official website](https://git-scm.com). 
 1. Run the .exe file and follow the installation prompts. See some important steps below.
 	1. Add a Git Bash profile to your terminal (optional).
@@ -30,3 +32,5 @@ If you get a version number you have Git installed already.
 
 
 	1. Keep the default settings for the following prompts and finish with **Install**.
+
+</div>

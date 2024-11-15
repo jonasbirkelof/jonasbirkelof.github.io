@@ -2,4 +2,10 @@
 title: Gaming
 ---
 
-This section will have gaming articles.
+This is the gaming section.
+
+<div class="grid cards" markdown>
+
+- 	:material-minecraft: **Minecraft**
+
+</div>

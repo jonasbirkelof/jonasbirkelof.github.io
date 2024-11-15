@@ -8,6 +8,8 @@ This page will explain how to allow the root user to login via SSH.
 
 	This feature is disabled by default for security reasons.
 
+<div class="steps" markdown>
+
 1. Open the SSH configuration file on your server:
 
 	```bash
@@ -31,3 +33,5 @@ This page will explain how to allow the root user to login via SSH.
 	```bash
 	sudo systemctl restart sshd
 	```
+
+</div>

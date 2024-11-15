@@ -4,6 +4,8 @@ title: Mount a Windows drive
 
 This page explains how to mount a shared folder on Windows to Linux. Make sure that the folder you want to share from the PC is shared before you proceed.
 
+<div class="steps" markdown>
+
 1. Create a directory for the mounted drive.
 
 	```bash
@@ -12,6 +14,10 @@ This page explains how to mount a shared folder on Windows to Linux. Make sure t
 
 1. Mount the drive.
 	
+	```bash
+	sudo mount -t cifs -o username=your_username,password=your_password //remote-pc-ip/shared_folder /mnt/shared_folder
+	```
+
 	- Change `your_username` and `your_password` to the Microsoft account credentials.
 	- Change `//remote-pc-ip/shared_folder` to the path to the shared folder. 
 		
@@ -19,6 +25,4 @@ This page explains how to mount a shared folder on Windows to Linux. Make sure t
 
 	- Change `/mnt/shared_folder` to the path of the target folder you created before.
 
-	```bash
-	sudo mount -t cifs -o username=your_username,password=your_password //remote-pc-ip/shared_folder /mnt/shared_folder
-	```
+</div>

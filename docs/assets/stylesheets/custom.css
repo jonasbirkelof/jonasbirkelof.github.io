@@ -8,10 +8,8 @@
 	--code-bg-color-dark: rgb(0, 0, 0, .3);
 	--inline-code-bg-color: rgba(175, 184, 193, 0.2);
 	--inline-code-bg-color-dark: rgba(0, 0, 0, .4);
-	/* --md-primary-fg-color:        #045163;
-	--md-primary-fg-color--light: #078faf;
-	--md-primary-fg-color--dark:  #012730; */
-	--md-accent-fg-color:  		  var(--md-primary-fg-color--light);
+	--md-accent-fg-color: var(--md-primary-fg-color--light);
+	--line-height: 1.6;
 }
 
 /* Change logo depending on theme scheme */
@@ -95,16 +93,6 @@ body[data-md-color-scheme='slate'] {
 	}
 }
 
-/* Logo images on about pages */
-/* h1 img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	max-height: 80px;
-	border: 0 !important;
-	padding: 0 !important;
-} */
-
 /*
 *
 * Misc
@@ -127,3 +115,4 @@ body[data-md-color-scheme='slate'] {
 		background-color: var(--code-bg-color-dark) !important;
 	}
 }
+

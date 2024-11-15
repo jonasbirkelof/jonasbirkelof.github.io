@@ -4,6 +4,8 @@ title: Install Docker on Ubuntu
 
 This page will explain how to install Docker on Ubuntu. The following steps are taken from the official [Docker website](https://docs.docker.com/engine/install/ubuntu/).
 
+<div class="steps" markdown>
+
 1. Use SSH to connect to the Ubuntu server.
 
 1. Add Docker's official GPG key.
@@ -31,6 +33,8 @@ This page will explain how to install Docker on Ubuntu. The following steps are 
     ```bash
     sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
     ```
+
+</div>
 
 !!! tip
 

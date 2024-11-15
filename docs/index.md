@@ -9,6 +9,14 @@ Welcome to my documentation site an knowledge database. On this site I will coll
 
 <div class="grid cards" markdown>
 
+- 	:fontawesome-solid-code: **Tech**
+
+	---
+
+	Installation instructions, examples, templates and more.
+	
+	[Visit](/tech)
+
 - 	:fontawesome-solid-gamepad: **Gaming**
 
 	---
@@ -21,16 +29,8 @@ Welcome to my documentation site an knowledge database. On this site I will coll
 
 	---
 
-	Movie facts and information.
+	Movie and TV-series information.
 
 	[Visit](/media)
-
-- 	:fontawesome-solid-code: **Tech**
-
-	---
-
-	Installation instructions, examples, templates and more.
-	
-	[Visit](/tech)
 
 </div>

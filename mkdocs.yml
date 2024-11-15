@@ -23,12 +23,6 @@ theme:
     - search.suggest
     - content.code.copy
   palette:
-    # Automatic color scheme
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: fontawesome/regular/sun
-        name: Switch to light mode
-
     # Light color scheme
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -44,12 +38,13 @@ theme:
       primary: black
       accent: cyan
       toggle:
-        icon: fontawesome/solid/circle-half-stroke
-        name: Switch to system preference
+        icon: fontawesome/regular/sun
+        name: Switch to light mode
 
 # Custom CSS
 extra_css:
   - assets/stylesheets/custom.css
+  - assets/stylesheets/steps.css
 
 # Plugins
 plugins:

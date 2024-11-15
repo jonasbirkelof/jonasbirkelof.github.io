@@ -18,10 +18,14 @@ winget install --id Microsoft.WindowsTerminal -e
 
 ## Manual installation
 
+<div class="steps" markdown>
+
 1. Go to the [GitHub releases page](https://github.com/microsoft/terminal/releases).
 1. Click on **Assets**.
 1. Download the **.msixbundle** file.
 1. Double click on the **.msixbundle** file you just downloaded to install.
+
+</div>
 
 ## Configuration
 

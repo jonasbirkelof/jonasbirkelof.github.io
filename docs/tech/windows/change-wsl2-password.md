@@ -4,8 +4,10 @@ title: Change WSL2 Password
 
 If you have forgotten your WSL2 password, this is how you change it.
 
+<div class="steps" markdown>
+
 1. Open the terminal.
-2. Run `wsl -l` to see all distros and find the one you want to reset the password for. For example, we want to reset the password for user `usr001` in the distro `ubuntu-20.04`.
+1. Run `wsl -l` to see all distros and find the one you want to reset the password for. For example, we want to reset the password for user `usr001` in the distro `ubuntu-20.04`.
 
 	```
 	wsl -l
@@ -28,3 +30,5 @@ If you have forgotten your WSL2 password, this is how you change it.
 	```
 	ubuntu2004 config --default-user usr001
 	```
+
+</div>
